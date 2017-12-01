@@ -2,6 +2,6 @@ est
 read
 anothertestr
 t
-pull
-quit
-
+ull
+uit
+lose
