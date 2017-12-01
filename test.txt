@@ -1,4 +1,7 @@
-test
-test
+est
+read
 anothertestr
 t
+pull
+quit
+
